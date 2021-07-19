@@ -1,0 +1,1 @@
+<link href="<?= asset('vendors/datatables/dataTables.bootstrap4.min.css') ?>" rel="stylesheet">
